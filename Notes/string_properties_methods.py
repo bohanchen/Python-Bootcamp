@@ -22,4 +22,6 @@ print (x.split())
 
 a = 'hi, this is a string'
 print (a.split('i'))
+b = 'hi, this is a string'
+print (b.split('a'))
 
